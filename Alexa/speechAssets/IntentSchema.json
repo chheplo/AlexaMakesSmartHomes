@@ -1,11 +1,16 @@
 {
   "intents": [
     {
-      "intent": "TurnOnTvIntent",
-      "slots": []
+      "intent": "TvPowerIntent",
+      "slots": [
+        {
+          "name":"Message",
+          "type":"LITERAL"
+        }
+      ]
     },
     {
-      "intent": "TurnOffTvIntent",
+      "intent": "ThankYouIntent",
       "slots": []
     },
     {

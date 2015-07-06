@@ -1,10 +1,9 @@
-TurnOnTvIntent turn on TV
-TurnOnTvIntent TV on
-TurnOnTvIntent on
+TvPowerIntent turn {on|Message}
+TvPowerIntent turn {off|Message}
+TvPowerIntent turn {of|Message}
 
-TurnOffTvIntent turn off TV
-TurnOffTvIntent turn off
-TurnOffTvIntent off
+ThankYouIntent thank you
+ThankYouIntent thanks
 
 HelpIntent help
 HelpIntent help me

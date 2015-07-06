@@ -10,7 +10,7 @@ var postData = qs.stringify({
 });
 
 var options = {
-    host: 'titodi.com',
+    host: 'example.com',
     port: 9080,
     path: '/books/author/add/',
     method: 'POST',
